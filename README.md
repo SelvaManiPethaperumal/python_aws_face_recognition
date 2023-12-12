@@ -25,7 +25,7 @@ AWS Face recognition
 
 faceRecognition.py
 
-    The faceRecognition file handle the recognition concpet
+    The faceRecognition file handle the recognition concept
 
  awsFaceRecognitionConfig.py
 
